@@ -6,7 +6,7 @@ Luckycoin - a fork of Litecoin version with random bonus blocks. Like Litecoin i
    - 1 min block target
    - Difficulty retargets every 20 min with accelerated diff adjustment in the beginning
    - Initially 88 coins per block, halves every 2 months (100,000 blocks)
-   - Total around 20 millions coins
+   - Total around 20 million coins
    - connection port is 9917, RPC-port 9918
 
    Random Super-blocks:
